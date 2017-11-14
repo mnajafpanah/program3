@@ -1,0 +1,25 @@
+IglooScore1.java
+
+This program is just summarizing the 2nd and 3rd input integers instead of the two largest integers
+
+There are 4 errors including:
+
+Error 1: if there isn’t 3 arguments
+Error 2: if one of the arguments is not an integer 
+Error 3: if a negative integer is inserted
+Error 4: if no integer is inserted
+————————————————————————————————————————————
+
+IglooScore2.java
+	
+There’s an error when the two bigger integers are the 1st and 3rd arguments.
+	
+When I assumed that all the input numbers are the same integer, I got error.
+
+There are 5 other errors including:
+
+Error 1: if nothing is inserted 
+Error 2: if there is not three arguments
+Error 3: if one of the arguments is not an integer
+Error 4: if each of the numbers inserted is over 50 or under 0
+Error 5: if a negative integer is inserted 
